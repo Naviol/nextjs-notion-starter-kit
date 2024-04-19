@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Ivan\'s Blogs',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'ivan-lo.vercel.app',
   author: 'Ivan Lo',
 
   // open graph metadata (optional)
