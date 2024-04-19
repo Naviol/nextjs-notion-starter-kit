@@ -10,7 +10,7 @@
     "node": ">=16"
   },
   "scripts": {
-    "postinstall": "patch-package", // <== look here, add this one only.
+    "postinstall": "patch-package",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
